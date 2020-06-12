@@ -1,22 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimary</item>
         <item name="colorAccent">@color/fontGreyDark</item>
 
-        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
         <item name="android:windowLightStatusBar">true</item>
     </style>
-
-
-    <!-- Text Styles. -->
-    <style name="RobotoEditText14">
-        <item name="android:fontFamily">@font/roboto</item>
-        <item name="android:textSize">@dimen/dimen_14dp</item>
-        <item name="android:textColor">@color/fontGreyDark</item>
-    </style>
-
 </resources>

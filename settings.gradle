@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':profile'
 rootProject.name='Clinicfy'
